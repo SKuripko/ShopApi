@@ -1,7 +1,4 @@
 # README
-
-Test exam for Shakuro.
-
 Shops&Books API:
 
 Ruby 2.6.3
