@@ -1,5 +1,4 @@
 # README
-
 Shops&Books API:
 
 Ruby 2.6.3
